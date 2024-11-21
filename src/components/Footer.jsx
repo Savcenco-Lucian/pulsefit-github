@@ -50,7 +50,7 @@ const Footer = () => {
                     </div>
                     <hr class="my-6 border-white sm:mx-auto lg:my-8" />
                     <div class="sm:flex sm:items-center sm:justify-between">
-                        <span class="text-lg text-white sm:text-center">© 2025 <a href="#" class="hover:underline">PulseFit™</a>. All Rights Reserved.
+                        <span class="text-lg text-white sm:text-center">© 2024 <a href="#" class="hover:underline">PulseFit™</a>. All Rights Reserved.
                         </span>
                         <div class="flex mt-4 space-x-6 sm:justify-center sm:mt-0">
                             <a href="#" class="text-white hover:text-[#D7FB00]">

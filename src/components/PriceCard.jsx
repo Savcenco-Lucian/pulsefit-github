@@ -53,7 +53,7 @@ const PriceCard = () => {
     ];
 
     return (
-        <section className='mt-24'>
+        <section id="link3" className='mt-24 membership'>
             <div className="px-7">
                 <div className='flex items-center justify-between px-7'>
                     <div className='flex'>

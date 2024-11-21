@@ -13,7 +13,7 @@ const Classes = () => {
     }
 
     return (
-        <div className='mt-24'>
+        <div id='link2' className='mt-24 classes'>
             <div className='flex items-center justify-between px-7'>
                 <div className='flex'>
                     <div className='w-1 h-1 border bg-[#D7FB00] opacity-60 md:w-2 md:h-2'></div>

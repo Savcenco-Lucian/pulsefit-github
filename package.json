@@ -1,6 +1,6 @@
 {
-  "name": "pulsefit-deploy-github",
-  "homepage": "https://Savcenco-Lucian.github.io/pulsefit-deploy-github",
+  "name": "pulsefit-github",
+  "homepage": "https://Savcenco-Lucian.github.io/pulsefit-github",
   "private": true,
   "version": "0.0.0",
   "type": "module",
